@@ -1,4 +1,4 @@
-# Small-Skills--More-Impact
+# Small-Skills-Big-Impact
 # Glow-Up OS - Next Update Roadmap 🚀
 
 ## 📌 What's Coming Next?
