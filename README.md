@@ -32,10 +32,6 @@ We're excited to bring you the **Glow-Up Calendar** as the next major feature to
 - Keep an eye out for the **Glow-Up Calendar** section in your navigation menu.
 - If you'd like, I can help you **build the initial code structure** or **write a sample JSON for mock data**.
 
-## 💬 Let Me Know!
-If you have any questions or want to **customize the calendar feature**, feel free to ask. We're here to help you **level up your Glow-Up OS** and **inspire your users** to reach their full potential! 👑✨
-
-Stay tuned for the update — it's going to **glow**! 🔥
 
 ## 🤝 Collaborate with Us
 
@@ -47,3 +43,9 @@ We're always open to **new ideas, suggestions, and collaborations** to help take
 
 ### 🌟 Together, We
 Your creativity and energy can help **Glow-Up OS** become more than just a platform — it can become a **movement**. Let's build something **epic** together! 💪✨
+
+
+## 💬 Let Me Know!
+If you have any questions or want to **customize the calendar feature**, feel free to ask. We're here to help you **level up your Glow-Up OS** and **inspire your users** to reach their full potential! 👑✨
+
+Stay tuned for the update — it's going to **glow**! 🔥
